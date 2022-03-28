@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: git@github.com:wuxuedong/springcloud-config.git
+          uri: https://github.com/wuxuedong/springcloud-config.git
           search-paths:
             - springcloud-config
       label: master
