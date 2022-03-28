@@ -1,5 +1,5 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version-1"
+  info: "master branch,springcloud-config/config-dev.yml version-2"
 eureka:
   client:
     register-with-eureka: true #false\u8868\u793A\u4E0D\u5411\u6CE8\u518C\u4E2D\u5FC3\u6CE8\u518C\u81EA\u5DF1\u3002
